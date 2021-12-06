@@ -1,0 +1,15 @@
+//sg singapore, ir ireland, cg congo, co colombia, cn china, tj Tajikistan, pk pakisthan,
+no norway, us usa, nl netherlands, dk denmark, cl chile, ca canada, jo jordan, au australia,
+ar argentina, bm burma, uk, th thailand, au australia, be belgium, fr france, se sweden,
+
+//sg singapore, ir ireland, cg congo, co colombia, cn china, tj Tajikistan, pk pakisthan, no norway, us usa, nl netherlands, dk denmark, cl chile, ca canada, jo jordan, au australia, ar argentina, bm burma, uk, th thailand, au australia, be belgium, fr france, se sweden,
+
++-----------+-----------+-----------+--------+-------------+-----------+----------+
+|passengerId|  firstname|   lastname|flightId|from_location|to_location|      date|
++-----------+-----------+-----------+--------+-------------+-----------+----------+
+|       2062|    Emerita|      Shane|      32|           ir|         sg|2017-01-10|
+|       2074|     Shelia|      Queen|      32|           ir|         sg|2017-01-10|
+|        187|        Rea|      Caren|      32|           ir|         sg|2017-01-10|
+|         79|   Julienne|    Micaela|      32|           ir|         sg|2017-01-10|
+|        172|      Jorge|    Adriana|      32|           ir|         sg|2017-01-10|
+|        111|       Aide|    Lasonya|      32|           ir|         sg|2017-01-10|
